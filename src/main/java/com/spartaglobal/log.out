@@ -1,0 +1,6 @@
+2022-12-11 16:12:347 INFO  ManageDriver :32 - launching chrome browser
+2022-12-11 16:12:74 INFO  HomePage :41 - Clicking on Cookies : [[ChromeDriver: chrome on WINDOWS (f7de6dbe602666c707dd42cd35b85521)] -> xpath: //div[@id='cookiescript_accept']]
+2022-12-11 16:12:625 INFO  HomePage :46 - Clicking on For individuals : [[ChromeDriver: chrome on WINDOWS (f7de6dbe602666c707dd42cd35b85521)] -> xpath: //a[normalize-space()='For individuals']]
+2022-12-11 16:12:688 INFO  HomePage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f7de6dbe602666c707dd42cd35b85521)] -> xpath: //span[normalize-space()='Become']]
+2022-12-11 16:12:730 INFO  HomePage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f7de6dbe602666c707dd42cd35b85521)] -> xpath: //span[normalize-space()='Become']]
+2022-12-11 16:12:773 INFO  HomePage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f7de6dbe602666c707dd42cd35b85521)] -> xpath: //span[normalize-space()='Become']]
